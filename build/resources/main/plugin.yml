@@ -1,0 +1,10 @@
+name: PoisonousFart
+version: '1.0-SNAPSHOT'
+main: me.alex_650.poisonousfart.PoisonousFart
+author: 6kingu
+api-version: '1.19'
+description: prrrt nasty fart
+commands:
+  fart:
+    description: Toggle the stomach ache.
+    usage: /fart
